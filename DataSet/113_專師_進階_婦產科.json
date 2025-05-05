@@ -1,0 +1,1029 @@
+[
+  {
+    "id": 1,
+    "question": "下列何者為登革熱感染常見之抽血檢查結果？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "白血球增加",
+      "B": "血小板減少",
+      "C": "血清白蛋白上升",
+      "D": "紅血球沉降速率下降"
+    }
+  },
+  {
+    "id": 3,
+    "question": "低血鈉除了評估病人的體液狀態外，主要還可以用哪 3 項檢驗數據來協助鑑別診斷？ ① 尿液鈉離子濃度 ② 尿液滲透壓 ③ 血清鉀離子濃度 ④ 血清滲透壓",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "①②③",
+      "B": "②③④",
+      "C": "①②④",
+      "D": "①③④"
+    }
+  },
+  {
+    "id": 4,
+    "question": "35 歲男性病人，昨天剛入院，主訴發燒和疲勞已超過 4 週，體溫多次超過 38.3 °C，絕對 嗜中性白血球數目 250 / mm3，之前曾看過 2 次門診，仍無法確認發燒原因，血液培養為 陰性。病人最有可能是下列何種不明原因發燒 ( fever of unknown origin , FUO ) ？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "neutropenic FUO",
+      "B": "hospital - associated FUO",
+      "C": "HIV - associated FUO",
+      "D": "viral infection FUO"
+    }
+  },
+  {
+    "id": 5,
+    "question": "關於體溫過高的敘述，下列何者正確？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "體溫至 39 °C 可定義為 hyperpyrexia",
+      "B": "體溫超過 41.5 °C 常見於中樞神經系統出血病人",
+      "C": "發燒可透過肌肉和腎臟的代謝活動散熱",
+      "D": "acetaminophen 可緩解熱急症 ( heat stroke ) 之高燒"
+    }
+  },
+  {
+    "id": 6,
+    "question": "65 歲男性病人，有慢性胃炎和血小板低下病史，此次因上呼吸道感染引起發燒前來就診， 體溫達到 38.5 °C。下列何種退燒藥物較合適？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "aspirin",
+      "B": "acetaminophen",
+      "C": "ibuprofen",
+      "D": "naproxen"
+    }
+  },
+  {
+    "id": 7,
+    "question": "40 歲男性病人，主訴持續性頭痛、發燒及頸部僵硬已持續 2 天，腦脊髓液檢查結果為外觀 混濁、壓力 280 mmH2O ( 正常參考值 70 - 180 mmH2O ) 、白血球計數 10000 / mm3且以多核球 為主 ( 正常參考值 0 - 5 淋巴球 / mm3 ) 、葡萄糖 20 mg / dL ( 正常參考值 45 - 85 mg / dL ) 、蛋白質 180 mg / dL ( 正常參考值 15 - 45 mg / dL ) 、血糖值正常。其最可能的診斷為何？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "bacterial meningitis",
+      "B": "tuberculous meningitis",
+      "C": "fungal meningitis",
+      "D": "viral meningitis"
+    }
+  },
+  {
+    "id": 8,
+    "question": "接受副甲狀腺切除術後，出現 Chvostek’s sign 及 Trousseau’s sign 的主要原因為下列何者？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "低血鉀",
+      "B": "高血鉀",
+      "C": "低血鈣",
+      "D": "高血鈣"
+    }
+  },
+  {
+    "id": 9,
+    "question": "23 歲女性因嘔吐及呼吸急促被送至急診，到院時初始血壓 90 / 48 mmHg、脈搏 135 次 / 分、 SpO2 97 %、血糖 585 mg / dL、血鈉 124 mEq / L、血鉀 4.6 mEq / L、動脈血液氣體分析為 pH 值 7.14、PaCO2 22 mmHg、HCO3– 8 mmol / L。下列評估或處置何者正確？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "若病人在一般病房住院治療，應嚴密的監測與追蹤",
+      "B": "若該病人為糖尿病酮酸血症，則其動脈血之 anion gap 應正常",
+      "C": "此病人的治療應常規給予 normal saline、regular insulin 及 NaHCO3",
+      "D": "當病人血糖經胰島素輸注治療後降到 250 - 300 mg / dL 時，應立即停止輸注胰島素 婦產科 進階專科護理 第3 頁 共11 頁"
+    }
+  },
+  {
+    "id": 10,
+    "question": "癌症病人使用 fentanyl 貼片，主要透過何種機制產生止痛作用？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "抑制神經細胞的鈉離子通道，降低神經興奮性",
+      "B": "阻斷神經肌肉接受器的乙醯膽鹼釋放",
+      "C": "刺激 GABA 受體，增加抑制性神經傳導",
+      "D": "作用於中樞μ - 鴉片受體，產生鎮痛效果"
+    }
+  },
+  {
+    "id": 11,
+    "question": "為安寧緩和醫療的病人進行身體評估時，下列敘述何者正確？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "喉頭持續出現「咕嚕」聲，是因喉頭肌肉鬆弛，無法有效吞口水",
+      "B": "以 PAIN 評估整體痛，「N」指的是 non - pharmacological management",
+      "C": "一般情況下，腹水超過 300 mL 才能由超音波檢測出",
+      "D": "陳施氏呼吸型態 ( Cheyne - Stokes ) 是呼吸淺快，之後逐漸變慢加深，又逐漸變淺快"
+    }
+  },
+  {
+    "id": 12,
+    "question": "68 歲末期癌症病人經常抱怨骨頭痛及神經性疼痛，夜間出現間歇性疼痛，疼痛指數由 4 分 加劇到 8 分。下列何種輔助止痛藥物對此病人最合適？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "三環類抗憂鬱藥 ( tricyclic antidepressants )",
+      "B": "降鈣素 ( calcitonin )",
+      "C": "抗癲癇藥 ( anticonvulsants )",
+      "D": "類固醇 ( corticosteroids )"
+    }
+  },
+  {
+    "id": 13,
+    "question": "80 歲女性為長期糖尿病、高血壓及中風不良於行之病人，因急性腹痛來急診就醫，其平躺 之腹部 X 光如圖 ( 一 ) ，另一張左側躺之腹部 X 光檢查如圖 ( 二 ) ，下列敘述何者正確？ 圖 ( 一 ) 圖 ( 二 )",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "推測有腹腔積水，可能為腹腔腫瘤導致",
+      "B": "推測有腹部脹氣，可能為腸阻塞導致",
+      "C": "推測有腹腔積氣，可能為腹腔內中空臟器破裂導致",
+      "D": "為正常腹部影像，只須持續追蹤"
+    }
+  },
+  {
+    "id": 14,
+    "question": "68 歲男性肺癌病人化學治療後第 2 天上午出現劇烈嘔吐，當晚主訴左胸疼痛，胸部 X 光 疑似左側肋膜積液，胸腔穿刺引流液檢查為 WBC 1500 / mm3 ( lymphocyte 8 %、neutrophil 80 % ) 、LDH 270 U / L、glucose 40 mg / dL、amylase 380 U / L。下列處置何者最適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "給予抗結核藥物治療",
+      "B": "胸水引流與禁食",
+      "C": "給予舌下 NTG 服用緩解疼痛",
+      "D": "給予利尿劑緩解肋膜積液"
+    }
+  },
+  {
+    "id": 15,
+    "question": "關於急性冠心症的實驗室檢驗，下列敘述何者最不適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "troponin T 對偵測心肌細胞壞死具有高度的敏感度與特異度",
+      "B": "CK - MB 是作為初步診斷 NSTEMI 的良好檢測指標",
+      "C": "在急性冠心症的病人BNP 的升高與較差的臨床預後相關",
+      "D": "CK - MB 可用於追蹤偵測心肌梗塞後的再發性心肌缺血 婦產科 進階專科護理 共11 頁 第4 頁"
+    }
+  },
+  {
+    "id": 16,
+    "question": "圖 ( 三 ) 顯示的心電圖波形是何種心律不整？ 圖 ( 三 )",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "一度房室傳導阻滯 ( first degree AV block )",
+      "B": "Morbitz type I 二度房室傳導阻滯 ( second degree AV block )",
+      "C": "Morbitz type II 二度房室傳導阻滯 ( second degree AV block )",
+      "D": "完全房室傳導阻滯 ( complete AV block )"
+    }
+  },
+  {
+    "id": 17,
+    "question": "28 歲女性患有第1 型糖尿病，懷孕 28 週，因為持續嘔吐被送到急診，生命徵象穩定， 抽血檢查血糖 200 mg / dL，動脈血液氣體分析結果為 pH 值 6.9、HCO3– 12 mmol / L，血清 酮體 ( ketone body ) 8 mmol / L。下列評估與處置之敘述何者最適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "血糖值小於 300 mg / dL，可排除是酮酸中毒",
+      "B": "第三產期孕婦糖尿病酮酸中毒應該立刻引產",
+      "C": "孕婦糖尿病酮酸中毒不可矯正 pH 值",
+      "D": "孕婦糖尿病酮酸中毒的胰島素治療原則與非孕婦無異"
+    }
+  },
+  {
+    "id": 18,
+    "question": "關於肝功能的實驗室檢驗，下列敘述何者正確？ ① α- fetoprotein 是由胚胎肝細胞所產生，對肝細胞癌的敏感度及特異度很高 ( 90 % 以上 ) ② 在溶血性貧血的病人膽色素 ( bilirubin ) 升高主要是以直接型 ( direct ) 膽色素為主 ③ alkaline phosphatase ( ALP ) 除了在肝臟外，也可在腎臟、腸道及骨頭的組織中偵測到 ④ aspartate aminotransferase ( AST ) 及 alanine aminotransferase ( ALT ) 在肝細胞損傷時均會 升高，在橫紋肌溶解也可偵測到 AST 升高",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "①②",
+      "B": "②③",
+      "C": "③④",
+      "D": "①④"
+    }
+  },
+  {
+    "id": 19,
+    "question": "中年男性心悸入急診，脈搏 154 次 / 分、血壓 80 / 50 mmHg、呼吸 20 次 / 分、意識 E3M6V5， 心電圖如圖 ( 四 ) ，下列處置何者正確？ 圖 ( 四 )",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "病人心跳過快，應先給予靜脈注射乙型阻斷劑",
+      "B": "心電圖為 PSVT，應先給予 adenosine 6 mg 快速靜脈推注",
+      "C": "應先給予強心藥物 ( inotropic agents )",
+      "D": "應先進行雙向電擊器心臟同步整流 120 焦耳"
+    }
+  },
+  {
+    "id": 20,
+    "question": "年輕男性跳水後頭部撞擊泳池底，意識清醒、前額擦傷、頸部疼痛、乳頭以下麻木無力， 血壓 70 / 40 mmHg、心跳 40 次 / 分、呼吸 16 次 / 分，皮膚紅潤。其休克最可能的原因為何？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "顱內腦幹位置出血抑制心血管系統",
+      "B": "交感神經功能下降引起神經性休克",
+      "C": "胸腔內出血造成低血容休克",
+      "D": "溺水心肌缺氧導致心因性休克"
+    }
+  },
+  {
+    "id": 21,
+    "question": "因車禍導致大腿骨開放性骨折而接受手術的病人，當醫師正在縫合傷口時，專科護理師 發現病人血壓降到 65 / 40 mmHg、CVP 20 cmH2O，EKG 呈現 ST elevation，經測量得 心輸出量下降，全身性血管阻力 ( SVR ) 上升，其最可能的診斷為何？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "敗血性休克",
+      "B": "低血容性休克",
+      "C": "心因性休克",
+      "D": "過敏性休克"
+    }
+  },
+  {
+    "id": 22,
+    "question": "心臟衰竭合併低血壓病人，使用下列何種升壓劑無法有效增加心輸出量？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "vasopressin",
+      "B": "dobutamine",
+      "C": "norepinephrine",
+      "D": "dopamine 婦產科 進階專科護理 第5 頁 共11 頁"
+    }
+  },
+  {
+    "id": 23,
+    "question": "疑似肺動脈栓塞病人，呼吸喘及胸悶且有休克現象，下列評估或處置之敘述何者正確？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "使用血管加壓藥物是絕對禁忌症",
+      "B": "不適合大量輸液，要謹慎評估體液情況",
+      "C": "最可能是大面積肺栓塞造成的分佈性休克",
+      "D": "血栓溶解劑及手術取栓都是可行的治療方式"
+    }
+  },
+  {
+    "id": 24,
+    "question": "全家4 人都一氧化碳中毒，何者最可能需要高壓氧治療？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "50 歲父親，頭暈頭痛，COHb ( carboxyhemoglobin ) 10 %",
+      "B": "78 歲祖母，全身無力、糖尿病史，COHb 18 %",
+      "C": "25 歲女兒，懷孕 20 週，COHb 18 %",
+      "D": "18 歲兒子，頭暈頭痛、全身無力，COHb 20 %"
+    }
+  },
+  {
+    "id": 25,
+    "question": "一位婦女發現會陰和肛門區域有多個軟疣 ( soft warts ) 前來求診，最可能感染哪種病原體？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "梅毒螺旋體",
+      "B": "人類免疫缺乏病毒 ( HIV )",
+      "C": "人類乳突病毒 ( HPV )",
+      "D": "陰道滴蟲"
+    }
+  },
+  {
+    "id": 26,
+    "question": "發生經前症候群的頻率及嚴重程度最高，是下列哪一期？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "黃體期晚期 ( late luteal phase )",
+      "B": "濾泡期 ( follicular phase )",
+      "C": "增殖期 ( proliferative phase )",
+      "D": "排卵期 ( ovulatory phase )"
+    }
+  },
+  {
+    "id": 27,
+    "question": "一位孕婦目前妊娠 28 週，她於 12 週初次產檢時 Hb 值為 12.8 g / dL，這次產檢為 12.4 g / dL。 下列處置何者最適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "抽血檢查 CBC 和血清儲鐵蛋白量",
+      "B": "可能是腸胃功能不佳，將口服的鐵劑改為靜脈注射鐵劑",
+      "C": "鼓勵她繼續攝取含鐵高的食物並持續補充鐵劑",
+      "D": "詢問過去病史及家族史，確認是否有遺傳性貧血的風險"
+    }
+  },
+  {
+    "id": 28,
+    "question": "人類乳突病毒( HPV )是造成子宮頸癌最重要的危險因子，下列何者為致癌力強的高危險型別？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "6,11 型",
+      "B": "14,17 型",
+      "C": "16,18 型",
+      "D": "30,32 型"
+    }
+  },
+  {
+    "id": 29,
+    "question": "一位孕婦主述皮膚出現不規則丘疹，沒有淋巴腫大壓痛情形。下列 hemagglutination inhibition ( HAI ) titer 數據中，何者可確認其不是感染德國麻疹？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "1： 8",
+      "B": "1： 128",
+      "C": "1： 64",
+      "D": "1： 72"
+    }
+  },
+  {
+    "id": 30,
+    "question": "根據母血唐氏症篩檢風險值，用以建議是否進一步安排羊膜穿刺檢查。下列何者為高危險群？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "1 / 250",
+      "B": "1 / 570",
+      "C": "1 / 980",
+      "D": "1 / 1080"
+    }
+  },
+  {
+    "id": 31,
+    "question": "「嬰兒外觀上有鼻樑塌陷、向上傾斜的瞼裂及手指粗短等特徵，伴隨先天性心臟病及十二 指腸閉鎖疾病。」，上述最可能是何種染色體異常疾病？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "巴特氏症候群 ( Patau syndrome )",
+      "B": "唐氏症候群 ( Down syndrome )",
+      "C": "艾德華氏症候群 ( Edwards syndrome )",
+      "D": "透納氏症候群 ( Turner syndrome )"
+    }
+  },
+  {
+    "id": 32,
+    "question": "一對夫妻接受不孕症治療，太太雙側輸卵管阻塞，先生精子濃度 3 × 106 / mL，6 % 精子具 活動力，10 % 精子屬正常型態，下列人工生殖科技治療方式何項最適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "以配偶的精子進行人工受精 ( AIH )",
+      "B": "接受輸卵管內精卵植入術 ( GIFT )",
+      "C": "接受體外受精與胚胎植入術 ( IVF / ET ) 併卵質內精蟲注射 ( ICSI )",
+      "D": "接受輸卵管胚胎植入術 ( IVF / TET ) 婦產科 進階專科護理 共11 頁 第6 頁"
+    }
+  },
+  {
+    "id": 33,
+    "question": "妊娠 38 週合併妊娠糖尿病，接受生理活動評估 ( biophysical profile , BPP ) ：無壓力試驗 ( non - stress test , NST ) 測量結果為反應性 ( R - NST ) 、胎兒 30 分鐘內有 1 次胎動、胎兒四肢 張力弱、呼吸運動正常及羊水量正常。下列評估處置何者最適當？( 以 0、2 計分法 )",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "BPP： 8 分，胎兒狀況良好",
+      "B": "BPP： 8 分，可居家觀察，24 小時後再評估",
+      "C": "BPP： 6 分，建議住院觀察，24 小時後再評估",
+      "D": "BPP： 6 分，建議住院，安排生產"
+    }
+  },
+  {
+    "id": 34,
+    "question": "足月待產之產程活動期，發生胎兒窘迫常見徵象，下列何者最適當？ ① 胎兒活動減少 ② 宮縮將結束時，胎心率開始減速 ③ 羊水中有胎便染色 ④ 胎心率變異性 6 - 10 bpm",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "①②",
+      "B": "②③",
+      "C": "③④",
+      "D": "①④"
+    }
+  },
+  {
+    "id": 35,
+    "question": "根據美國婦產科學院 ( American College of Obstetrics and Gynecology ) 建議，對疑有子宮 內膜異位症者進行首要的影像學檢查，下列何者最適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "經陰道超音波檢查",
+      "B": "電腦斷層檢查",
+      "C": "核磁共振檢查",
+      "D": "子宮輸卵管攝影檢查"
+    }
+  },
+  {
+    "id": 36,
+    "question": "相較於開腹手術( laparotomy )，下列何者不是腹腔鏡手術的優點？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "住院時間較短 ( shorter hospital stays )",
+      "B": "手術後比較不會疼痛 ( less postoperative pain )",
+      "C": "較快恢復正常的活動 ( faster return to normal activity )",
+      "D": "手術室使用時間較短 ( shorter operating room time )"
+    }
+  },
+  {
+    "id": 37,
+    "question": "50 歲年齡層的婦女最常見的尿失禁 ( urinary incontinence ) 為下列何項？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "急迫性尿失禁 ( urgency urinary incontinence )",
+      "B": "混合型尿失禁 ( mixed urinary incontinence )",
+      "C": "應力性尿失禁 ( stress urinary incontinence )",
+      "D": "尿道外尿失禁 - 膀胱陰道瘻管 ( extraurethral urinary incontinence - vesicovaginal fistula )"
+    }
+  },
+  {
+    "id": 38,
+    "question": "55 歲婦女，陰道生產 4 次，10 年前因子宮肌瘤經血過多接受全子宮切除手術，最近 1 年 有骨盆下墜感，偶有解尿不順、便秘及性交疼痛，此外一般健康狀況良好，理學檢查發現 陰道頂端 ( vaginal vault ) 脫垂於陰道外，陰道長度只有 5 cm，病人期望接受手術後能夠有 正常性生活。下列何者為首選的手術方式？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "薦骨坐骨棘韌帶懸吊術 ( sacrospinous ligament fixation )",
+      "B": "子宮薦骨韌帶懸吊術 ( uterosacral ligament suspension )",
+      "C": "陰道薦骨固定術 ( sacrocolpopexy )",
+      "D": "腸骨尾骨陰道固定術 ( iliococcygeal vaginal suspension )"
+    }
+  },
+  {
+    "id": 39,
+    "question": "下列何者不是續發性經痛 ( secondary dysmenorrhea ) 常見的原因？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "子宮肌腺症 ( adenomyosis )",
+      "B": "子宮內膜異位症 ( endometriosis )",
+      "C": "子宮肌瘤 ( uterine leiomyoma )",
+      "D": "子宮頸息肉 ( cervical polyp ) 婦產科 進階專科護理 第7 頁 共11 頁"
+    }
+  },
+  {
+    "id": 40,
+    "question": "30 歲婦女，過往月經週期約 30 - 45 天一次，最近一次月經在 2 個月前，下列何者診斷需 優先考慮？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "骨盆腔發炎",
+      "B": "子宮肌瘤",
+      "C": "懷孕",
+      "D": "子宮內膜異位症"
+    }
+  },
+  {
+    "id": 41,
+    "question": "35 歲婦女因肚子痛前來急診，合併陰道少量出血，生命徵象穩定，抽血β - hCG 數值為 950 mIU / mL，陰道及腹部超音波檢查子宮內沒看到妊娠囊、無腹水及其他特別發現，下列 何者處置最適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "腹腔鏡子宮外孕手術",
+      "B": "肌肉注射 methotrexate",
+      "C": "靜脈注射 methotrexate",
+      "D": "48 小時後追蹤β - hCG 數值"
+    }
+  },
+  {
+    "id": 42,
+    "question": "下列何項疫苗建議在孕期間施打？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "流感疫苗",
+      "B": "麻疹腮腺炎德國麻疹混合疫苗",
+      "C": "水痘疫苗",
+      "D": "人類乳突病毒疫苗"
+    }
+  },
+  {
+    "id": 43,
+    "question": "下列何項營養品懷孕期間不建議補充？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "葉酸",
+      "B": "鐵劑",
+      "C": "鈣片",
+      "D": "維生素 A"
+    }
+  },
+  {
+    "id": 44,
+    "question": "下列何項病症不適合使用子宮鏡手術？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "15 cm 子宮肌瘤壓迫膀胱",
+      "B": "經血過多",
+      "C": "30 年前裝的避孕器無法取出",
+      "D": "結紮手術"
+    }
+  },
+  {
+    "id": 45,
+    "question": "下列何項卵巢囊腫最容易導致卵巢扭轉？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "子宮內膜異位瘤",
+      "B": "畸胎瘤",
+      "C": "黃體囊腫",
+      "D": "黏液性囊腫"
+    }
+  },
+  {
+    "id": 46,
+    "question": "一位婦女懷孕 36 週，主訴昨天清晨 3 點陰道斷斷續續地有水樣物排出，自行在家觀察 1 天後 仍持續有此情形，今晨 9 點來就診，以試紙測試確認為破水，觀察其羊水清澈、胎心率為 124 bpm 和變異性為中等。後續評估處置，下列何者最適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "給予口服抗生素，返家待產",
+      "B": "觀察評估有無感染徵象",
+      "C": "辦理入院立即安排剖腹生產",
+      "D": "入院觀察 72 小時，若無感染可返家"
+    }
+  },
+  {
+    "id": 47,
+    "question": "下列何者是胎盤早期剝離的婦女，較常出現的徵象？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "子宮底高度的測量值增加",
+      "B": "無痛性陰道出血",
+      "C": "胎心率為110 - 160 bpm",
+      "D": "發燒伴隨白血球增多症"
+    }
+  },
+  {
+    "id": 48,
+    "question": "下列孕婦目前產檢皆正常，單胞胎，無抽菸喝酒習慣，何者最有可能是發生胎盤早期剝離 的高危險群？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "G2P1A0，懷孕 27 週",
+      "B": "G3P1AA1，17 歲青少女",
+      "C": "G4P3A0，癌症倖存者",
+      "D": "G4P1SA2，古柯鹼成癮者"
+    }
+  },
+  {
+    "id": 49,
+    "question": "有關乙型鏈球菌檢測 ( streptococcus agalactiae , GBS ) 為陰性的婦女，發生產前破水 ( prematurely ruptured membranes at term ) 之相關處置，下列何者最適當？ ① 先等待 6 - 12 小時，若沒有子宮收縮，再使用催產素刺激產程 ② 立即進行催生可降低產時及產後的感染率 ③ 居家等待產兆比直接入院觀察，有較佳的生產結果 ④ 應立即住院施打預防性抗生素 ⑤ 破水超過 18 小時才需要打抗生素",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "①③⑤",
+      "B": "②③④",
+      "C": "②⑤",
+      "D": "①④ 婦產科 進階專科護理 共11 頁 第8 頁"
+    }
+  },
+  {
+    "id": 50,
+    "question": "妊娠糖尿病於懷孕中、末期，受下列何項荷爾蒙之影響，會產生胰島素阻抗作用？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "雌性素 ( estrogen )",
+      "B": "黃體激素 ( progesterone )",
+      "C": "人類絨毛膜促性腺激素 ( hCG )",
+      "D": "人類胎盤泌乳激素 ( hPL )"
+    }
+  },
+  {
+    "id": 51,
+    "question": "妊娠糖尿病婦女若孕期血糖控制不良，對母嬰容易發生下列哪些合併症？ ① 妊娠高血壓 ② 巨嬰 ③ 羊水過少 ④ 新生兒低血糖 ⑤ 前置胎盤",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "①②③",
+      "B": "②③④",
+      "C": "③④⑤",
+      "D": "①②④"
+    }
+  },
+  {
+    "id": 52,
+    "question": "一位婦女妊娠 36 週診斷子癇前症住院，使用硫酸鎂( MgSO4 )治療後，發生呼吸抑制 情形，此時檢驗其血中硫酸鎂濃度，下列何者最適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "2 - 3 mg / dL",
+      "B": "4 - 8 mg / dL",
+      "C": "9 - 10 mg / dL",
+      "D": "15 - 17 mg / dL"
+    }
+  },
+  {
+    "id": 53,
+    "question": "一位婦女妊娠 35 週診斷重度子癇前症，入院接受硫酸鎂 ( MgSO4 ) 治療，當發生下列 何種情況時建議停藥？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "深部肌腱反射 ( DTR ) 1 +",
+      "B": "呼吸速率每分鐘 13 - 14 次 / 分",
+      "C": "4 小時尿量少於 100 mL",
+      "D": "血壓值 160 / 110 mmHg"
+    }
+  },
+  {
+    "id": 54,
+    "question": "下列何者不是產後出血第一時間立即需做的處置？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "找出血原因",
+      "B": "按摩子宮",
+      "C": "檢測血中 fibrinogen level",
+      "D": "靜脈點滴快速給予 oxytocin"
+    }
+  },
+  {
+    "id": 55,
+    "question": "有關產後憂鬱 ( postpartum depression ) 的治療，下列何者不適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "輕度產後憂鬱，優先考慮使用抗憂鬱症藥物",
+      "B": "輕中度運動有益於改善產後憂鬱",
+      "C": "中度產後憂鬱，使用抗憂鬱症藥物外加上心理治療 ( psychotherapy )",
+      "D": "重度產後憂鬱，藥物使用優先考慮 selective serotonin - reuptake inhibitor ( SSRI ) 治療"
+    }
+  },
+  {
+    "id": 56,
+    "question": "下列何者發生雙胞胎輸血症候群 ( twin - twin transfusion syndrome ) 的機會最高？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "dichorionic diamnionic twins",
+      "B": "monozygotic twins",
+      "C": "monochorionic diamnionic twins",
+      "D": "monochorionic monoamnionic twins"
+    }
+  },
+  {
+    "id": 57,
+    "question": "下列何者不是以內科藥物 ( methotrexate ) 治療子宮外孕之禁忌症？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "輸卵管破裂",
+      "B": "子宮內懷孕",
+      "C": "餵母乳",
+      "D": "另一側輸卵管異常"
+    }
+  },
+  {
+    "id": 58,
+    "question": "有關產後憂鬱評估較常用的量表為下列何者？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "匹茲堡量表",
+      "B": "愛丁堡量表",
+      "C": "愛普沃斯量表",
+      "D": "紐卡索渥太華量表"
+    }
+  },
+  {
+    "id": 59,
+    "question": "一位懷孕 8 週的婦女主述孕吐，下列何者治療處方不適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "pyridoxine",
+      "B": "doxylamine",
+      "C": "ondansetron hydrochloride",
+      "D": "pyrazinamide"
+    }
+  },
+  {
+    "id": 60,
+    "question": "下列心血管藥物，何者最不適合在懷孕使用？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "hydralazine",
+      "B": "digoxin",
+      "C": "warfarin",
+      "D": "methyldopa 婦產科 進階專科護理 第9 頁 共11 頁"
+    }
+  },
+  {
+    "id": 61,
+    "question": "下列何者不是子癇前症的危險因子？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "多胞胎",
+      "B": "肥胖",
+      "C": "系統性紅斑性狼瘡",
+      "D": "經產婦"
+    }
+  },
+  {
+    "id": 62,
+    "question": "一位婦女被診斷患有第 2 型單純疱疹病毒，下列敘述何者正確？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "如果沒有病灶出現，就不會感染給性伴侶",
+      "B": "建議每年皆須做子宮頸抹片檢查",
+      "C": "服用 acyclovir ( Zovirax® ) 2 週，可清除潛伏的病毒",
+      "D": "為避免新生兒感染，生產時必須採剖腹產"
+    }
+  },
+  {
+    "id": 63,
+    "question": "在評估閉經但具有正常第二性徵的年輕婦女時，進行黃體素測試 ( progesterone challenge test ) 的主要目的，是在確認下列何者足夠性？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "泌乳素",
+      "B": "甲狀腺素 ( T4 )",
+      "C": "體內脂肪",
+      "D": "內源性雌激素 ( E2 )"
+    }
+  },
+  {
+    "id": 64,
+    "question": "有關婦女於門診治療骨盆腔炎後的門診追蹤建議，下列敘述何者最適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "持續疼痛或發燒超過 5 天，再回診追蹤",
+      "B": "若症狀未改善，應在治療後 72 小時內回診",
+      "C": "治療 2 週後進行披衣菌及淋菌檢查",
+      "D": "預約 1 週後回診施打第 2 劑 ceftriaxone IM"
+    }
+  },
+  {
+    "id": 65,
+    "question": "子宮內膜異位症的最佳鑑別性診斷依據，下列何者最適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "CT scan",
+      "B": "laparoscopy",
+      "C": "serum CA125",
+      "D": "abdominal ultrasound"
+    }
+  },
+  {
+    "id": 66,
+    "question": "1 年前治療原發性梅毒的婦女返診追蹤，實驗室檢查結果如下： VDRL non - reactive、 fluorescent treponemal antibody absorbed test ( FTA - ABS ) ( + ) 。此檢查結果，下列敘述 何項最適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "梅毒治療成效不彰",
+      "B": "完成治療後又再度感染梅毒",
+      "C": "可能有其他感染導致 FTA - ABS 呈現陽性",
+      "D": "有適當的治療，沒有再度感染"
+    }
+  },
+  {
+    "id": 67,
+    "question": "婦科癌症除了外科手術治療外，大部分仍須接受輔助治療，其中荷爾蒙 ( 黃體素製劑 ) 治療， 可為下列何種婦癌治療的方式？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "子宮頸癌",
+      "B": "卵巢癌",
+      "C": "子宮內膜癌",
+      "D": "輸卵管癌"
+    }
+  },
+  {
+    "id": 68,
+    "question": "有關放射治療應用於子宮頸癌病人，下列敘述何者不適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "對不適合手術者或較晚期病人，放射治療為優先選擇",
+      "B": "放射治療不可單獨作為於手術後的輔助治療",
+      "C": "放射治療短期副作用有腹瀉、腹痛、頻尿等",
+      "D": "晚期病人接受放射治療同時使用 cisplatin 化學治療可降低死亡率"
+    }
+  },
+  {
+    "id": 69,
+    "question": "接受體腔內放射治療前，下列何項數值是可接受治療之主要指標？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "白血球 ( WBC ) 4000 / μL",
+      "B": "血色素 ( Hb ) 6 g / dL",
+      "C": "肌酸酐 ( creatinine ) 0.45 mg / dL",
+      "D": "AST 90 U / L 婦產科 進階專科護理 共11 頁 第10 頁"
+    }
+  },
+  {
+    "id": 70,
+    "question": "子宮內膜癌手術後的輔助治療，下列敘述何者最適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "術後接受放射治療可減少骨盆腔復發，亦可治療遠處轉移",
+      "B": "第四期的子宮內膜癌，應先考慮化學治療",
+      "C": "第四期的子宮內膜癌做放射治療者比做化學治療者存活時間增加",
+      "D": "化療藥物單獨使用比合併多種藥物使用效果較好"
+    }
+  },
+  {
+    "id": 71,
+    "question": "有關化學藥物治療的副作用中，對於心臟有明顯累積性毒性是哪一種化療藥物？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "doxorubicin",
+      "B": "topotecan",
+      "C": "carboplatin",
+      "D": "cisplatin"
+    }
+  },
+  {
+    "id": 72,
+    "question": "下列何者不是「Rotterdam criteria」診斷多囊性卵巢的條件？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "卵巢功能失常 - 少排卵或不排卵 ( oligoovulation or anovulation )",
+      "B": "血糖過高 ( hyperglycemia )",
+      "C": "高男性荷爾蒙臨床表現 ( clinical signs of hyperandrogenism )",
+      "D": "卵巢有多囊型態 ( PCO morphology )"
+    }
+  },
+  {
+    "id": 73,
+    "question": "不孕婦女發現有一個 2 cm 之子宮黏膜下肌瘤，下列何者為較適當切除肌瘤的方式？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "腹腔鏡子宮肌瘤切除術 ( laparoscopic myomectomy )",
+      "B": "子宮腔鏡子宮肌瘤切除術 ( hysteroscopic myomectomy )",
+      "C": "開腹子宮肌瘤切除術 ( myomectomy )",
+      "D": "機器手臂輔助腹腔鏡子宮肌瘤切除術 ( robot assisted laparoscopic myomectomy )"
+    }
+  },
+  {
+    "id": 74,
+    "question": "有關卵巢過度刺激症候群 ( ovarian hyperstimulation syndrome , OHSS ) 之敘述，下列何者錯誤？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "為刺激排卵藥物引起",
+      "B": "致病機轉為卵泡的顆粒細胞 ( granulosa cells ) 分泌之大量血管內皮生長因子 ( vascular endothelial growth factor , VEGF ) 和其他發炎性細胞激素 ( inflammatory cytokines ) 一起促成",
+      "C": "多囊性卵巢病人較不會發生",
+      "D": "有胸腔積液 ( hydrothorax ) 或呼吸困難 ( dyspnea ) 之症狀，就屬於重度卵巢過度刺激 症候群 ( severe OHSS )"
+    }
+  },
+  {
+    "id": 75,
+    "question": "有關子宮異常出血 ( abnormal uterine bleeding ) ，國際婦產科醫學會 ( FIGO ) 建議以 PALM 縮寫 詞 ( acronym ) 來描述其結構原因 ( structural causes ) ，關於 PALM 之敘述，下列何者錯誤？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "P： polyp",
+      "B": "A： adhesion",
+      "C": "L： leiomyoma",
+      "D": "M：malignancy ＆ hyperplasia"
+    }
+  },
+  {
+    "id": 76,
+    "question": "濾泡發育 ( follicular development ) 的基本原則為兩細胞兩性腺激素理論 ( two - cell , two gonadotropin theory ) ，下列何者不是此兩細胞兩性腺激素？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "granulosa cell",
+      "B": "theca cell",
+      "C": "FSH ( follicle - stimulating hormone )",
+      "D": "hCG ( human chorionic gonadotropin )"
+    }
+  },
+  {
+    "id": 77,
+    "question": "下列何者不是子宮內膜癌的危險因子？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "足月生育過",
+      "B": "肥胖",
+      "C": "糖尿病",
+      "D": "使用泰莫西芬 ( tamoxifen )"
+    }
+  },
+  {
+    "id": 78,
+    "question": "下列何者為子宮內膜癌最常見的細胞型態？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "clear cell carcinoma",
+      "B": "mucinous carcinoma",
+      "C": "endometrioid carcinoma",
+      "D": "serous carcinoma 婦產科 進階專科護理 第11 頁 共11 頁"
+    }
+  },
+  {
+    "id": 79,
+    "question": "有關子宮頸癌治療方式之敘述，下列何者最適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "stage IA 進行放射線治療",
+      "B": "stage IIA 進行子宮頸圓錐狀切除",
+      "C": "stage IIIC 1 進行全子宮切除手術",
+      "D": "stage IVA 進行根除性全子宮切除手術"
+    }
+  },
+  {
+    "id": 80,
+    "question": "卵巢癌使用化療藥物 carboplatin 治療，其劑量計算方式是採用下列何者？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "area under the curve ( AUC )",
+      "B": "per weight",
+      "C": "per body surface area ( BSA )",
+      "D": "creatinine clearance rate ( Ccr ) 【以下空白】"
+    }
+  }
+]

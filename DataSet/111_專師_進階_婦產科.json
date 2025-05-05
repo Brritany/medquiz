@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 1,
+    "question": "關於低血鈉的鑑別診斷與評估，下列何者錯誤？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "須先測血中滲透壓 ( plasma osmolality ) ，排除假性低血鈉",
+      "B": "每上升血糖 100 mg / dL，血鈉會下降 1.6 ~ 2.4 mEq / L",
+      "C": "低體容性低血鈉( hypovolemic hyponatremia )常見於心衰竭和肝硬化病人",
+      "D": "24 小時內矯正低血鈉，可能會造成橋腦中央髓鞘溶解症 ( central pontine demyelination )"
+    }
+  },
+  {
+    "id": 2,
+    "question": "病人的動脈血氣體分析為 pH： 7.32，PaCO 2： 34 mmHg，PaO 2： 96 mmHg， HCO 3-： 16 mmol / L。其他抽血報告 albumin： 4.2 g / dL、Na +： 142 mmol / L、 K +： 4.0 mmol / L，Cl-： 115 mmol / L，下列敘述何者正確？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "屬於代謝性酸中毒，高陰離子間隙 ( high anion gap )",
+      "B": "屬於代謝性酸中毒，正常陰離子間隙 ( normal anion gap )",
+      "C": "屬於代謝性鹼中毒，高陰離子間隙 ( high anion gap )",
+      "D": "屬於代謝性鹼中毒，正常陰離子間隙 ( normal anion gap )"
+    }
+  },
+  {
+    "id": 3,
+    "question": "關於嗎啡類藥物的敘述，下列何者錯誤？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "臨床上使用可能有噁心嘔吐、鎮靜、呼吸抑制及瞳孔變小等副作用",
+      "B": "採取長時間連續輸注 fentanyl，會出現藥物代謝速率變慢的情況",
+      "C": "肥胖病人劑量計算，採用總體重比淨體重 ( lean body mass ) 合適",
+      "D": "合併 NSAIDs 或其他作用機轉止痛藥，能提升止痛效果及安全性"
+    }
+  },
+  {
+    "id": 4,
+    "question": "關於 NSAIDs 的敘述，下列何者正確？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "傳統 NSAIDs 主要抑制 COX - 1，抑制 prostaglandins 的產生，達到止痛的效果",
+      "B": "使用 celecoxib，對胃黏膜的保護性較好，可以減少胃腸道出血的副作用",
+      "C": "長期使用 celecoxib 可以降低心肌梗塞或其他心血管併發症的風險",
+      "D": "在癌症疼痛階段性治療中，可取代嚴重疼痛時強效高劑量嗎啡類藥物止痛的角色"
+    }
+  },
+  {
+    "id": 5,
+    "question": "創傷病人氣管內管插管的適應症，下列何者錯誤？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "頸部血腫併口咽道出血",
+      "B": "嚴重顏面骨折",
+      "C": "純氧治療下仍氧合不足",
+      "D": "腰椎骨折損傷合併下肢無力"
+    }
+  },
+  {
+    "id": 6,
+    "question": "下列何種細菌導致的管路相關性感染，在不移除管路而僅以藥物治療的成功率最高？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "金黃色葡萄球菌 ( staphylococcus aureus )",
+      "B": "綠膿桿菌 ( pseudomonas aeruginosa )",
+      "C": "寡食單胞菌 ( stenotrophomonas )",
+      "D": "凝固酶陰性葡萄球菌 ( coagulase - negative staphylococci , CoNS )"
+    }
+  },
+  {
+    "id": 7,
+    "question": "下列何種退燒藥不會掩蓋發炎的徵象，不會損害血小板的功能，也和雷氏症候群無關， 是較優先的選擇？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "Aspirin®",
+      "B": "Diclofenac®",
+      "C": "Betamethasone®",
+      "D": "Acetaminophen®"
+    }
+  },
+  {
+    "id": 8,
+    "question": "病房醫療人員出現噁心嘔吐及群聚腹瀉症候群的情形，且糞便細菌培養均為陰性，下列 何者為最有可能的病原體？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "諾羅病毒 ( norovirus )",
+      "B": "輪狀病毒 ( rotavirus )",
+      "C": "大腸桿菌 ( E . coli )",
+      "D": "沙門氏菌 ( salmonella )"
+    }
+  },
+  {
+    "id": 9,
+    "question": "下列何者為梅毒 ( syphilis ) 最常見的傳染途徑？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "性接觸感染",
+      "B": "子宮內感染",
+      "C": "輸血",
+      "D": "器官移植 婦產科 進階專科護理 第3 頁 共12 頁"
+    }
+  },
+  {
+    "id": 10,
+    "question": "懷孕女性應避免食用軟起司，且不要重覆加熱即食食品，主要是為避免何種細菌感染？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "大腸桿菌 ( E . coli )",
+      "B": "A 型鏈球菌 ( group A streptococcus )",
+      "C": "B 型鏈球菌 ( group B streptococcus )",
+      "D": "李斯特菌 ( Listeria )"
+    }
+  },
+  {
+    "id": 11,
+    "question": "在臺灣發生腦膜炎雙球菌群聚感染 ( meningococcal infections ) ，會以哪一型別的可能性最大？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "A 型",
+      "B": "B 型",
+      "C": "C 型",
+      "D": "W 135 型"
+    }
+  },
+  {
+    "id": 12,
+    "question": "肝癌末期病人目前每四小時注射嗎啡針劑進行疼痛控制，但病人仍頻繁感覺疼痛，且有 嚴重便秘及腹脹，不想進食，下列安寧緩和療護措施，何者最為適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "優先放置肛管，以緩解病人腹脹的症狀",
+      "B": "優先增加軟便藥物，以減少嗎啡造成的副作用",
+      "C": "優先增加嗎啡劑量，以緩解疼痛感受",
+      "D": "優先考慮改用 NSAIDs，以避免嗎啡成癮的可能"
+    }
+  },
+  {
+    "id": 13,
+    "question": "下列哪一項不是臨終瀕死階段常出現的臨床症狀？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "腸蠕動增加、滲便",
+      "B": "呼吸不規則、費力",
+      "C": "嘴巴張開無法閉合",
+      "D": "皮膚濕冷、肢體發紺"
+    }
+  },
+  {
+    "id": 14,
+    "question": "當末期病人出現瀕死前的嘎嘎聲 ( death rattle ) 時，下列處置何者錯誤？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "抬高床頭，協助病人呼吸",
+      "B": "增加抽痰頻率，減少呼吸道分泌物",
+      "C": "向家屬說明病人已進入瀕死階段，請家屬進行死亡準備",
+      "D": "使用抗膽鹼藥物可以減少呼吸道分泌物及雜音"
+    }
+  },
+  {
+    "id": 15,
+    "question": "有高血壓及高血脂病史病人，清晨突然感到後背劇痛，輻射至胸部及腹部，且冒冷汗， 至急診時，病人意識清楚，心肺聽診正常，無腹部壓痛，四肢肌力正常，但無法測出 左足背動脈搏動。下列哪一項檢查最能確立診斷？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "胸腹部電腦斷層檢查",
+      "B": "心電圖檢查",
+      "C": "週邊血管超音波檢查",
+      "D": "腹部超音波檢查"
+    }
+  },
+  {
+    "id": 16,
+    "question": "病人急性脇腹部痛 ( flank pain ) ，往下延伸至腹壁及生殖器，伴隨噁心、嘔吐，疼痛性質 為痙攣痛，合併肉眼可見的血尿，下列何者為最可能的診斷？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "腎臟腫瘤",
+      "B": "輸尿管結石",
+      "C": "前列腺肥大",
+      "D": "腎病症候群"
+    }
+  },
+  {
+    "id": 17,
+    "question": "Chvostek ’ s sign 及 Trousseau ’ s sign 最可能發生在下列何種手術之後？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "副甲狀腺切除手術",
+      "B": "甲狀腺切除手術",
+      "C": "卵巢切除手術",
+      "D": "胸腺切除手術"
+    }
+  },
+  {
+    "id": 18,
+    "question": "高血壓病人平時服用利尿劑控制血壓，突然發生右側大腳趾及足踝關節紅腫劇痛，X 光 檢查正常，抽血 WBC 9500 / µL，CRP 及 ESR 皆有上升情形，下列何種檢查可以確立診斷？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "週邊血管超音波檢查",
+      "B": "血液培養",
+      "C": "關節液檢查",
+      "D": "尿酸檢驗"
+    }
+  },
+  {
+    "id": 19,
+    "question": "多發性骨髓瘤的常見症狀，下列何者錯誤？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "骨頭疼痛",
+      "B": "貧血",
+      "C": "反覆感染",
+      "D": "淋巴結腫大 婦產科 進階專科護理 共12 頁 第4 頁"
+    }
+  },
+  {
+    "id": 20,
+    "question": "肺癌病人因呼吸喘多日後至急診，血壓 85 / 70 mmHg，心跳 120 次 / min，身體檢查發現 頸靜脈怒張，呼吸音對稱、心音低沉、指甲發紺及四肢無水腫。下列何者為最可能的診斷？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "肋膜積水",
+      "B": "心臟衰竭",
+      "C": "心包膜填塞",
+      "D": "氣胸"
+    }
+  },
+  {
+    "id": 21,
+    "question": "病人因腹痛、體重減輕及腹瀉就醫，主訴每天腹瀉至少 4 ~ 5 次、大便帶血且有裡急後重感， 大腸鏡檢查發現從直腸到整段大腸黏膜皆呈現充血、易碎及發炎性變化，且有許多偽息肉， 下列何者為最可能的診斷？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "潰瘍性大腸炎",
+      "B": "大腸激躁症",
+      "C": "憩室炎",
+      "D": "克隆氏症"
+    }
+  },
+  {
+    "id": 22,
+    "question": "病人因呼吸急促合併胸悶被送到急診，意識清楚但血壓 72 / 38 mmHg，心電圖顯示如 下圖 (一)，下列處置何者錯誤？ 圖 ( 一 )",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "不優先考慮迷走神經刺激術 ( vagal maneuver )",
+      "B": "adenosine 6 mg IV drip",
+      "C": "同步整流 50 J ( 雙相 )",
+      "D": "整流時可考慮給予鎮靜劑"
+    }
+  },
+  {
+    "id": 23,
+    "question": "使用呼吸器可能造成的併發症及處置，下列何者錯誤？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "呼吸道壓力過高可能造成 barotrauma",
+      "B": "吐氣時間不足可能造成 auto - PEEP",
+      "C": "呼吸器相關肺炎常發生於使用呼吸器 24 小時內",
+      "D": "可用 H 2- blocker 或 PPI 預防 stress - induced peptic ulcer"
+    }
+  },
+  {
+    "id": 24,
+    "question": "關於敗血性休克的處置，下列何者錯誤？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "輸液復甦 ( fluid resuscitation )",
+      "B": "及早給予合適的抗生素治療",
+      "C": "維持平均動脈壓 ( MAP ) 大於 65 mmHg",
+      "D": "維持中央靜脈血氧飽和濃度 ( ScvO 2 ) 在 50 ~ 60 %"
+    }
+  },
+  {
+    "id": 25,
+    "question": "根據實證有關增加攝取黃豆及補充黃豆異黃酮素 ( soy isoflavone ) ，對更年期婦女相關症狀 的主要助益，下列項目何者較適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "增進記憶力與專注力",
+      "B": "預防老化過程中的皮膚變化",
+      "C": "降低熱潮紅的頻率及嚴重度",
+      "D": "穩定血糖預防糖尿病"
+    }
+  },
+  {
+    "id": 26,
+    "question": "有關產後憂鬱症的描述，下列何者較不適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "大部分的產後憂鬱症是產前憂鬱症的延續",
+      "B": "產婦無任何危險因子，也可能會發生產後憂鬱症",
+      "C": "社會隔離、缺乏社會支持是產後憂鬱症的危險因子",
+      "D": "輕微產後憂鬱症可先以血清素回收抑制劑 ( SSRI ) 類藥物治療為主 婦產科 進階專科護理 第5 頁 共12 頁 ▲閱讀下文，回答第27 ~ 28 題 林太太 23 歲，G 1 P 0，產前檢查皆正常，無過去疾病史。於懷孕 39 週時因自發性破水住 院，羊水清澈無臭味。入院時胎兒監視器 ( CTG ) 顯示心跳基準線為 130 ~ 145 bpm，vital signs 正常。羊水破後 12 小時，子宮頸擴張 6 公分，母親體溫 38.2 ℃，胎心音率 170 bpm， 變異性 10 ~ 15 bpm，以 12 mU / min 的速度滴注 oxytocin。羊水破後 15 小時，子宮頸擴張 9 公分，20 分鐘的 CTG 顯示結果如下圖 ( 二 ) ( 每格子為一分鐘 ) 。 圖 ( 二 )"
+    }
+  },
+  {
+    "id": 27,
+    "question": "胎心音與子宮收縮所呈現的周期性變化敘述，下列何者較適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "心搏過速，與使用oxytocin 有關",
+      "B": "早期減速，與胎頭受壓有關",
+      "C": "不定性減速，與臍帶受壓有關",
+      "D": "晚期減速，與胎盤功能降低有關"
+    }
+  },
+  {
+    "id": 28,
+    "question": "承上題依圖 ( 二 ) 所採取的處置，下列何者較不適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "準備胎血採樣",
+      "B": "停止滴注oxytocin",
+      "C": "產婦採左側臥",
+      "D": "投予面部 ( face mask ) 氧氣"
+    }
+  },
+  {
+    "id": 29,
+    "question": "陳小姐 22 歲，自初經以來的月經週期皆為 28 ~ 30 天，主訴已有 6 個月沒來月經。抽血檢 查結果顯示 prolactin 與 TSH 值為正常，妊娠試驗為陰性。下列何者為較適當的處置？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "進行黃體素挑戰試驗 ( progesterone challenge test )",
+      "B": "檢測睪固酮值 ( testosterone level )",
+      "C": "進行腦下垂體的電腦斷層檢查 ( CT scan )",
+      "D": "進行子宮輸卵管攝影術 ( hysterosalpingogram ) 婦產科 進階專科護理 共12 頁 第6 頁"
+    }
+  },
+  {
+    "id": 30,
+    "question": "一位懷孕 32 週妊娠糖尿病婦女因早產跡象入院安胎，無其他內外科疾病史，已接受二劑 betamethasone 12 mg IM 注射後，下列何者為較常見的情況？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "呼吸急促",
+      "B": "心跳加速",
+      "C": "血糖不穩定",
+      "D": "感染機率增加"
+    }
+  },
+  {
+    "id": 31,
+    "question": "一位診斷有中度產後憂鬱症的哺餵母乳婦女，她詢問在藥物治療期間是否可以親餵哺乳。 下列何項為較適當的回應？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "服用所有治療精神疾病的藥物時都不能哺乳",
+      "B": "有一些抗憂鬱症藥物服用時是可以繼續哺乳的",
+      "C": "主要不是擔心藥物影響新生兒，而是哺乳時的荷爾蒙變化會加重母親病情",
+      "D": "為避免母親傷害嬰兒，建議擠出母乳由替代照顧者瓶餵"
+    }
+  },
+  {
+    "id": 32,
+    "question": "一位 52 歲婦女，於兩年前因子宮纖維瘤造成經血過多而施行子宮全切除術 ( hysterectomy ) ， 目前抱怨過去幾個月來嚴重熱潮紅及夜間盜汗多。針對此婦女的血管舒縮症狀 ( vasomotor symptoms ) ，下列何者較適當的治療？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "連續性合併型的荷爾蒙療法 ( continous - combined hormonal therapy )",
+      "B": "順序性荷爾蒙療法 ( sequential hormonal therapy )",
+      "C": "經皮雌性素貼片 ( transdermal estrogen patch )",
+      "D": "陰道雌性素藥膏 ( vaginal estrogen cream )"
+    }
+  },
+  {
+    "id": 33,
+    "question": "當産後哺乳婦女診斷爲輕中度産後憂鬱症時，下列何者為較適當的第一線處置？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "cognitive behavioral therapy",
+      "B": "haloperidol",
+      "C": "sertraline",
+      "D": "tricyclic antidepression"
+    }
+  },
+  {
+    "id": 34,
+    "question": "一位第二胎 39 週合併妊娠高血壓因陣痛入院待產，待產過程中表示腹痛加劇難耐，陰道 鮮紅出血，予觸診腹部持續壓痛及強直，測量血壓 102 / 58 mmHg、脈搏： 108 次 / min， 胎心音出現異常減速，宮縮頻率 2 分鐘一次，此時可能發生下列何種情況？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "前置胎盤",
+      "B": "子宮破裂",
+      "C": "胎盤早期剝離",
+      "D": "植入性胎盤"
+    }
+  },
+  {
+    "id": 35,
+    "question": "一位懷孕 24 週之婦女，G 1 P 0，因胎兒有嚴重水腫 ( hydrops ) 情形，入院檢查發現胎兒罹患 地中海貧血，並安排此對夫婦接受抽血檢查，下列何者是其最有可能的抽血檢查結果？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "夫婦 MCV 皆小於 80 fL",
+      "B": "夫婦 MCV 皆大於 80 fL",
+      "C": "太太 MCV 小於 80 fL、先生 MCV 大於 80 fL",
+      "D": "太太 MCV 大於 80 fL、先生 MCV 小於 80 fL"
+    }
+  },
+  {
+    "id": 36,
+    "question": "孕婦在第一孕期受德國麻疹病毒感染，其對胎兒的影響，下列何者敘述較不適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "開放性動脈導管機率增加",
+      "B": "青光眼機率增加",
+      "C": "肝脾腫大機率增加",
+      "D": "此孕期不會影響胎兒"
+    }
+  },
+  {
+    "id": 37,
+    "question": "一位男性不孕症病人，其精液分析結果為精子濃度 14000000 / mL，活動力 25 % 為向前 運動，23 % 為正常型態，荷爾蒙檢查正常。下列何者為較適當的第一線治療方式？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "服用 clomiphene citrate",
+      "B": "使用自己篩洗過的精子做人工受精 ( IUI )",
+      "C": "使用他人的精子做人工受精 ( AI )",
+      "D": "體外受精，胚胎植入 婦產科 進階專科護理 第7 頁 共12 頁"
+    }
+  },
+  {
+    "id": 38,
+    "question": "現行「優生保健法暨施行細則」的規範，下列敘述何者正確？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "本人患有礙優生之遺傳性疾病，須經配偶同意方能施行結紮手術",
+      "B": "因懷孕影響婦女心理健康者，有配偶者應得配偶之同意方能施行人工流產",
+      "C": "配偶之六親等以內之血親患有礙優生之遺傳性疾病者，得依其自願，施行人工流產",
+      "D": "未婚女性其懷孕有危及母體健康之虞者，須經父母同意，方能施行結紮手術"
+    }
+  },
+  {
+    "id": 39,
+    "question": "45 歲林小姐上個月子宮頸抹片檢查報告為 high grade squamous intraepithelial lesion，較 適當的處理方式為？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "全子宮切除手術 ( total hysterectomy )",
+      "B": "三個月後再作一次子宮頸抹片檢查",
+      "C": "陰道鏡檢查 ( colposcopy ) 下作子宮頸切片檢查 ( cervical biopsy )",
+      "D": "子宮頸錐狀切除術 ( conization of cervix ) 及子宮頸管搔刮術 ( endocervical curettage )"
+    }
+  },
+  {
+    "id": 40,
+    "question": "有關子宮良性疾病之全子宮切除術之描述，下列何者較適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "機械手臂輔助腹腔鏡全子宮切除手術 ( robotic assisted laparoscopic hysterectomy ) 較傳統 腹腔鏡全子宮切除手術 ( laparoscopic hysterectomy ) 結果較佳",
+      "B": "手術方式應依個人情況而定 ，系統回顧分析顯示經陰道全子宮切除手術為首選術式",
+      "C": "泌尿道受傷 ( urinary tract injuries ) 之機率，腹腔鏡全子宮切除手術和剖腹全子宮切除 手術無異",
+      "D": "手術後患者恢復速度，經陰道全子宮切除手術和剖腹全子宮切除手術無異"
+    }
+  },
+  {
+    "id": 41,
+    "question": "下列何者與子宮內膜癌的發生較無關係？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "肥胖 ( obesity )",
+      "B": "Lynch II syndrome",
+      "C": "使用 tamoxifen",
+      "D": "更年期較早"
+    }
+  },
+  {
+    "id": 42,
+    "question": "有關卵巢上皮癌 ( epithelial ovarian cancer ) 的描述，下列何者較不適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "不孕婦女機率較高",
+      "B": "口服避孕藥可降低風險",
+      "C": "早期但高風險 ( high risk - low stage ) 卵巢上皮癌患者建議使用 carboplatin 及 paclitaxel 作化學治療",
+      "D": "對於復發性卵巢癌且先前對 platinum 治療有效之患者，只有 BRCA mutation 的 carrier，poly ( ADP - ribose ) polymerase ( PARP ) inhibitor 治療才能增加其 progression - free survival"
+    }
+  },
+  {
+    "id": 43,
+    "question": "有關卵巢儲能 ( ovarian reserve ) ，下列敘述何者較不適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "Serum antimüllerian hormone 測量，需在月經週期之濾泡期測試",
+      "B": "Serum antimüllerian hormone ＜ 1 ng / mL 時，可預測卵巢刺激排卵功能不佳",
+      "C": "正常婦女卵巢之 total antral follicle count 和年齡有密切關連性",
+      "D": "Total antral follicle count ＜ 4 ，表示卵巢儲能不佳"
+    }
+  },
+  {
+    "id": 44,
+    "question": "有關卵巢子宮內膜異位瘤 ( ovarian endometrioma ) 治療之敘述，何者較不適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "保守手術治療 ( conservative surgery ) 後，每年復發率約為 2 % 至 20 %",
+      "B": "dienogest 和 GnRH ( gonadotropin releasing hormone ) analogue 治療經痛效果相同",
+      "C": "dienogest 治療，發生熱潮紅 ( hot flush ) 及不規則陰道出血之機率，較 GnRH ( gonadotropin releasing hormone ) analogue 治療高",
+      "D": "danazol 治療的副作用有體重增加及長青春痘 婦產科 進階專科護理 共12 頁 第8 頁"
+    }
+  },
+  {
+    "id": 45,
+    "question": "78 歲王太太主訴最近半年解尿解便困難，且逐漸嚴重，感覺有東西從陰道脫出，骨盆理 學檢查發現有子宮及陰道脫垂，依據 pelvic organ prolapse quantitation system ( POP - Q ) 的 定義，下列敘述何者為誤？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "Aa 點為 + 3",
+      "B": "Bp 點為 - 4",
+      "C": "C 點為 - 1",
+      "D": "D 點為 - 2 ▲閱讀下文，回答第46 ~ 47 題 35 歲李小姐結婚 2 年不孕，且經血過多造成貧血，婦科超音波檢查發現子宮有一顆 2 公分 肌瘤。"
+    }
+  },
+  {
+    "id": 46,
+    "question": "依據國際婦產科聯盟 ( FIGO ) 對於肌瘤在子宮的位置分類系統，如下圖 ( 三 ) 星號所示為 下列何者較適當？ 圖 ( 三 )",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    }
+  },
+  {
+    "id": 47,
+    "question": "承上題，如上圖 ( 三 ) 星號所示，下列何者處理方式較適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "使用口服避孕藥減少經血量",
+      "B": "腹腔鏡子宮肌瘤切除術 ( laparoscopic myomectomy )",
+      "C": "剖腹子宮肌瘤切除術 ( laparotomy myomectomy )",
+      "D": "子宮腔鏡子宮肌瘤切除術 ( hysteroscopic myomectomy )"
+    }
+  },
+  {
+    "id": 48,
+    "question": "有關卵巢癌化學治療之敘述，下列何者較不適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "bevacizumab 抑制血管新生，最常見之副作用為血管栓塞 ( vascular thrombosis )",
+      "B": "接受含 platinum 之化學治療後，12 個月後再復發者，被歸類為 platinum sensitive",
+      "C": "對含 platinum 之化學治療有反應之卵巢癌患者，poly ( ADP - ribose ) polymerase ( PARP ) inhibitor 可作為維持性治療 ( maintenance therapy )",
+      "D": "liposomal doxorubicin 最重要副作用之一為 hand - foot syndrome ( palmar - plantar erythrodysesthesia )"
+    }
+  },
+  {
+    "id": 49,
+    "question": "孕婦無論是甲狀腺功能亢進或功能低下，下列何者數值較不受影響？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "促甲狀腺激素 ( TSH )",
+      "B": "甲狀腺結合球蛋白 ( TBG )",
+      "C": "左旋甲狀腺素 ( T 4 )",
+      "D": "三碘甲狀腺原氨酸 ( T 3 ) 婦產科 進階專科護理 第9 頁 共12 頁"
+    }
+  },
+  {
+    "id": 50,
+    "question": "25 歲張小姐從初經開始月經一直不規則，有糖尿病家族史，她的身體質量指數 ( BMI ) 為 34 kg / m2，身體毛髮較多 ( hirsutism ) 且有黑色素棘皮症 ( acanthosis nigricans ) 。有關張小姐 疾病之敘述，下列何者較不恰當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "有較高 metabolic syndrome 之風險",
+      "B": "口服避孕藥可以調整月經，同時有多毛之患者，約有三分之二可以減少毛髮生長",
+      "C": "子宮內膜癌之風險較高",
+      "D": "不易排卵，用藥物刺激排卵，發生卵巢過度刺激徵候群 ( ovarian hyperstimulation syndrome ) 之機率較低"
+    }
+  },
+  {
+    "id": 51,
+    "question": "25 歲王小姐，G 0 P 0，因下腹痛及發燒3 天就診，骨盆檢查發現移動子宮有壓痛 ( motion tenderness ) ，子宮附屬器有疼痛腫塊 ( tender mass ) ，有關王小姐疾病，下列敘述何者較 不適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "子宮附屬器有疼痛腫塊通常為兩側，但也可能單側",
+      "B": "最常見之病原菌為大腸桿菌 ( E . coli )",
+      "C": "可以用 cefoxitin 及 doxycycline 治療",
+      "D": "有時可發展成 Fitz - Hugh - Curtis syndrome"
+    }
+  },
+  {
+    "id": 52,
+    "question": "子宮內膜癌預後因子的敘述，下列何者較適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "癌細胞的黃體素接受器為陽性，則預後較好",
+      "B": "子宮內膜癌的組織分級以 grade 3 相較於 grade 1 及 2 的 5 年存活率高",
+      "C": "淋巴血管空間侵襲 ( lymph - vascular space invasion ) 不是子宮內膜癌預後因子",
+      "D": "年輕患者 ( ≦ 50 歲 ) 較年長患者 ( 51 ~ 70 歲 ) 的 5 年存活率低"
+    }
+  },
+  {
+    "id": 53,
+    "question": "35 歲朱小姐，未婚，因陰道異常出血就醫，內診骨盆發現子宮頸有一腫瘤大約 1 公分， 切片檢查病理報告為鱗狀細胞癌 ( squamous cell carcinoma ) ，侵犯深度為 6 mm，其餘檢查 皆正常，有關朱小姐之病情及處置，下列何者不適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "依照 FIGO 分期 ( 2018 年 ) ，應為 stage IB 3",
+      "B": "以 radical trachelectomy、pelvic lymphadenectomy 及 cervical cerclage placement 來保留 生育能力",
+      "C": "適合接受 radical trachelectomy 的患者，子宮頸病灶小於 2 公分且無淋巴結異常",
+      "D": "若採行生育保留之相關術式，5 年內累積懷孕率 ( culmulative pregnancy rate ) 可為 52.8 %"
+    }
+  },
+  {
+    "id": 54,
+    "question": "有關骨盆腔主要的血管之敘述，下列何者敘述較不適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "卵巢動脈 ( ovarian artery ) 在腎血管 ( renal vessel ) 下方，由主動脈分出",
+      "B": "子宮動脈 ( uterine artery ) 由內腸骨動脈 ( internaliliac artery ) 分出",
+      "C": "下腸系膜動脈 ( inferior mesenteric artery ) 在主動脈分岔 ( aorta bifurcation ) 上方 2 至 5 公 分處由主動脈 ( aorta ) 分出",
+      "D": "右側卵巢靜脈 ( right ovarian vein ) 直接匯入右側腎靜脈 ( right renal vein )"
+    }
+  },
+  {
+    "id": 55,
+    "question": "子宮外孕的危險因子的敘述，下列何者較無相關？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "曾經有披衣菌 ( chlamydia trachomatis ) 感染",
+      "B": "不孕症的病史",
+      "C": "曾經做過流產手術",
+      "D": "口服避孕藥 婦產科 進階專科護理 共12 頁 第10 頁"
+    }
+  },
+  {
+    "id": 56,
+    "question": "子宮外孕使用 methotrexate ( MTX ) 治療後，接連幾天血中β- hCG 濃度有可能還是會增 加，可以接受的反應是從第四天到第七天，血中β- hCG 濃度的變化，下列何者較常見？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "下降 5 %",
+      "B": "下降 10 %",
+      "C": "下降 15%",
+      "D": "下降 50 %"
+    }
+  },
+  {
+    "id": 57,
+    "question": "當病人對 paclitaxel 過敏或有早期感覺神經病變，可由下列何種功效類似的藥物所取代？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "cisplatin",
+      "B": "carboplatin",
+      "C": "docetaxel",
+      "D": "platinum"
+    }
+  },
+  {
+    "id": 58,
+    "question": "產婦發生產後大出血時，下列處置何者較不適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "監測生命徵象",
+      "B": "監測血氧濃度",
+      "C": "給予紅血球濃厚液 ( packed red blood cells )",
+      "D": "建立靜脈輸液導管"
+    }
+  },
+  {
+    "id": 59,
+    "question": "下列有關披衣菌感染的子宮頸炎描述，何者較不適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "披衣菌在鱗狀上皮細胞內細菌性寄生菌",
+      "B": "是性傳染疾病，感染者 30 % 與淋病有關",
+      "C": "口服 azithromycin 或 doxycycline 治療",
+      "D": "可藉由 probetest 與 ELISA 診斷"
+    }
+  },
+  {
+    "id": 60,
+    "question": "子宮頸癌危險因子的敘述，下列何者較不適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "抽菸",
+      "B": "多胎產婦 ( G 7 P 6 )",
+      "C": "第一次性交年紀在 18 歲",
+      "D": "human papillomavirus infection"
+    }
+  },
+  {
+    "id": 61,
+    "question": "下列有關降低卵巢癌罹患率，何者較適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "曾有一次以上的足月生產經驗",
+      "B": "曾經短期服用口服避孕藥",
+      "C": "BRCA 1 突變",
+      "D": "KRAS or BRAF 突變"
+    }
+  },
+  {
+    "id": 62,
+    "question": "預防子宮內膜異位症的發生，下列何項敘述較不適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "增加腰臀比 ( waist to hip ratios )",
+      "B": "降低身體質量指數 ( BMI )",
+      "C": "多產",
+      "D": "哺乳"
+    }
+  },
+  {
+    "id": 63,
+    "question": "更年期荷爾蒙治療的禁忌症敘述，下列何項較不適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "calculous cholecystitis",
+      "B": "thrombophlebitis",
+      "C": "appendicitis",
+      "D": "cerebrovascular disease"
+    }
+  },
+  {
+    "id": 64,
+    "question": "下列何者是 vaginal hysterectomy 較常發生的合併症？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "bowel injury",
+      "B": "bladder injury",
+      "C": "gallbladder injury / spleen injury",
+      "D": "fistula formation"
+    }
+  },
+  {
+    "id": 65,
+    "question": "多囊性卵巢症候群的相關症狀，下列何者現象較少出現？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "abnormal lipoprotein",
+      "B": "insulin resistance",
+      "C": "hirsutism",
+      "D": "hypoandrogenism"
+    }
+  },
+  {
+    "id": 66,
+    "question": "病人診斷為骨盆壁子宮內膜癌復發單一病灶，並伴隨單側下肢水腫及坐骨神經痛，下列 何者為較適當的治療方式？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "radiotherapy",
+      "B": "chemotherapy",
+      "C": "systemic hormonal therapy",
+      "D": "surgery 婦產科 進階專科護理 第11 頁 共12 頁"
+    }
+  },
+  {
+    "id": 67,
+    "question": "軟骨發育不良 ( achondroplasia ) 又俗稱侏儒症，是屬於下列何者遺傳模式？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "體染色體顯性遺傳",
+      "B": "體染色體隱性遺傳",
+      "C": "性聯遺傳",
+      "D": "多因素遺傳"
+    }
+  },
+  {
+    "id": 68,
+    "question": "關於卵巢巧克力腫瘤的治療 ，下列何者較不適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "考量術後的懷孕機率，摘除巧克力囊腫會優於僅把巧克力囊腫燒灼掉",
+      "B": "術後可以儘早懷孕",
+      "C": "術後若無內科方面的禁忌，可服用異位寧 ( dienogest ) 以減少復發率",
+      "D": "術後血中的 antimüllerian hormone ( AMH ) 值會升高"
+    }
+  },
+  {
+    "id": 69,
+    "question": "胎兒生理活動評估 ( biophysical profile ) 中，下列何者是胎兒健康狀況的較佳指標？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "胎兒呼吸 ( fetal breathing )",
+      "B": "胎動 ( fetal movement )",
+      "C": "非壓力試驗 ( nonstress test，NST )",
+      "D": "羊水容積 ( amnionic fluid volume )"
+    }
+  },
+  {
+    "id": 70,
+    "question": "人工生殖療程中，給予破卵針劑 ( hCG ) 促使卵子成熟並準備取卵，下列何者較不適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "優勢濾泡直徑大於 16 mm",
+      "B": "有 3 ~ 4 顆濾泡直徑大於 13 mm",
+      "C": "黃體素大於 20 ng / mL",
+      "D": "每顆大濾泡平均所製造的雌激素值高於或等於 200 pg / mL"
+    }
+  },
+  {
+    "id": 71,
+    "question": "定義胎兒缺氧條件，下列何者敘述較不適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "臍帶血動脈血氧分析有明顯代謝或混和的酸血症 ( pH ＜ 7.0 )",
+      "B": "阿帕嘉評分 ( Apgar score ) 5 ~ 7 分持續 5 分鐘以上",
+      "C": "新生兒腦神經症狀 ( 抽筋、昏迷 )",
+      "D": "多重器官功能失調"
+    }
+  },
+  {
+    "id": 72,
+    "question": "下列何者是支撐骨盆腔臟器的最主要組織？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "韌帶",
+      "B": "骨盆內筋膜",
+      "C": "提肛肌",
+      "D": "恥骨聯合"
+    }
+  },
+  {
+    "id": 73,
+    "question": "進行膀胱容積壓力測量法，最初的尿意感正常會在灌水多少量時發生？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "50 mL",
+      "B": "150 mL",
+      "C": "250 mL",
+      "D": "350 mL"
+    }
+  },
+  {
+    "id": 74,
+    "question": "關於胎盤早期剝離 ( placental abruption ) 的敘述，下列何者較不適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "高血壓是危險因子",
+      "B": "胎心率呈現晚期減速",
+      "C": "多數可用超音波診斷",
+      "D": "下次懷孕有較高的發生率"
+    }
+  },
+  {
+    "id": 75,
+    "question": "妊娠 32 + 2週羊膜完整但有早產跡象之婦女，醫囑給予類固醇，以降低新生兒呼吸窘迫的 發生，下列敘述何者較不適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "最大的效果出現在給予起始劑量後 24 ~ 48 小時",
+      "B": "效果可持續 7 日",
+      "C": "建議給藥方式 betamethasone 12 mg IM，間隔 12 小時給 2 劑",
+      "D": "亦可降低壞死性腸炎發生率"
+    }
+  },
+  {
+    "id": 76,
+    "question": "有關晚期或延遲性產後大出血常見原因的敘述，下列何者較不適當？",
+    "answer": [
+      "A"
+    ],
+    "options": {
+      "A": "子宮外翻",
+      "B": "子宮內感染",
+      "C": "胎盤滯留",
+      "D": "凝血功能異常疾病 婦產科 進階專科護理 共12 頁 第12 頁"
+    }
+  },
+  {
+    "id": 77,
+    "question": "高危險型人類乳突瘤病毒 ( human papillomavirus ) 容易引發子宮頸病變及造成子宮頸癌， 下列何者較適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "6,11 型",
+      "B": "14,17 型",
+      "C": "16,18 型",
+      "D": "30,32 型"
+    }
+  },
+  {
+    "id": 78,
+    "question": "一般產後憂鬱症的發生率為下列何者較適當？",
+    "answer": [
+      "B"
+    ],
+    "options": {
+      "A": "小於 1 %",
+      "B": "8 ~ 15 %",
+      "C": "28 ~ 35 %",
+      "D": "48 ~ 55 %"
+    }
+  },
+  {
+    "id": 79,
+    "question": "關於周產期血糖控制的理想範圍，下列何者較不適當？",
+    "answer": [
+      "C"
+    ],
+    "options": {
+      "A": "產前空腹血糖小於 95 mg / dL",
+      "B": "產前飯後一小時血糖小於 140 mg / dL",
+      "C": "待產時使用胰島素維持血糖濃度 140 ~ 160 mg / dL",
+      "D": "產後 48 小時內血糖濃度 150 ~ 200 mg / dL"
+    }
+  },
+  {
+    "id": 80,
+    "question": "孕母死亡率最高的敘述，下列何者較適當？",
+    "answer": [
+      "D"
+    ],
+    "options": {
+      "A": "心室中膈缺損",
+      "B": "法洛氏四重症",
+      "C": "人工瓣膜",
+      "D": "肺高壓 【以下空白】"
+    }
+  }
+]

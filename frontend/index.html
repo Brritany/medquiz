@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>國考題練習系統</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+  <script>
+    if (!localStorage.getItem('token')) {
+      window.location.href = '/login.html';
+    }
+  </script>
+
+  <div class="container py-4">
+    <div class="mb-3 text-end">
+      <span class="me-3 text-success">👤 已登入：<strong id="currentUser"></strong></span>
+      <a href="/history.html" class="btn btn-sm btn-outline-info me-2">📖 作答紀錄</a>
+      <a href="/review.html" class="btn btn-sm btn-outline-warning me-2">❌ 錯題再練習</a>
+      <button class="btn btn-sm btn-outline-danger" onclick="logout()">登出</button>
+    </div>
+
+    <h2 class="text-center mb-4">🩺 醫事人員國考題練習系統</h2>
+
+    <div class="card mb-4 p-3">
+      <div class="row g-2 mb-2">
+        <div class="col-md-4">
+          <label class="form-label">選擇領域</label>
+          <select id="typeSelect" class="form-select"></select>
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">選擇科目</label>
+          <select id="categorySelect" class="form-select" disabled></select>
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">選擇年度</label>
+          <select id="yearSelect" class="form-select" disabled>
+            <option selected disabled>請選擇</option>
+          </select>
+        </div>
+      </div>
+      <div class="row g-2 mb-2">
+        <div class="col-md-4" id="countField" style="display: none;">
+          <label class="form-label">隨機出題題數（可調整）</label>
+          <input type="number" id="questionCount" class="form-control" value="80" min="1" max="500">
+        </div>
+      </div>
+      <div class="row g-2">
+        <div class="col text-center">
+          <button class="btn btn-primary" onclick="loadQuestions()">開始練習</button>
+        </div>
+      </div>
+    </div>
+
+    <form id="quizForm" class="d-none">
+      <div id="questionList"></div>
+      <button type="submit" class="btn btn-success mt-4">送出作答</button>
+    </form>
+
+    <div id="result" class="mt-4"></div>
+  </div>
+
+  <script>
+    let questions = [];
+
+    document.getElementById('currentUser').innerText = localStorage.getItem('username') || '未知使用者';
+
+    function logout() {
+      localStorage.removeItem('token');
+      localStorage.removeItem('username');
+      window.location.href = '/login.html';
+    }
+
+    async function fetchTypes() {
+      const res = await fetch('/api/list-types');
+      const data = await res.json();
+      const typeSelect = document.getElementById('typeSelect');
+      typeSelect.innerHTML = '<option selected disabled>請選擇</option>';
+      for (const type in data) {
+        typeSelect.innerHTML += `<option value="${type}">${type}</option>`;
+      }
+
+      typeSelect.onchange = () => {
+        const selectedType = typeSelect.value;
+        const categorySelect = document.getElementById('categorySelect');
+        const yearSelect = document.getElementById('yearSelect');
+        const countField = document.getElementById('countField');
+
+        const categories = Object.keys(data[selectedType]);
+        categorySelect.disabled = false;
+        categorySelect.innerHTML = '<option selected disabled>請選擇</option>';
+        categories.forEach(cat => {
+          categorySelect.innerHTML += `<option value="${cat}">${cat}</option>`;
+        });
+
+        categorySelect.onchange = () => {
+          const years = data[selectedType][categorySelect.value];
+          yearSelect.disabled = false;
+          yearSelect.innerHTML = '<option selected disabled>請選擇</option>';
+          years.sort((a, b) => parseInt(b) - parseInt(a));
+          years.forEach(year => {
+            yearSelect.innerHTML += `<option value="${year}">${year}</option>`;
+          });
+          yearSelect.innerHTML += `<option value="random">隨機出題（預設 80 題）</option>`;
+
+          countField.style.display = 'none';
+          yearSelect.onchange = () => {
+            countField.style.display = (yearSelect.value === 'random') ? 'block' : 'none';
+          };
+        };
+      };
+    }
+
+    async function loadQuestions() {
+      const level = document.getElementById('typeSelect').value;
+      const category = document.getElementById('categorySelect').value;
+      const year = document.getElementById('yearSelect').value;
+      const count = (year === 'random') ? parseInt(document.getElementById('questionCount').value || '80') : undefined;
+
+      const payload = { level, category, year };
+      if (count) payload.count = count;
+
+      const res = await fetch('/api/load-questions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+      questions = await res.json();
+      // 將 filename 放入每題中
+      questions.forEach(q => q.filename = `${year}_${level}_${category}.json`);
+      displayQuestions(questions);
+    }
+
+    function displayQuestions(qList) {
+      const quizForm = document.getElementById('quizForm');
+      const questionList = document.getElementById('questionList');
+      questionList.innerHTML = '';
+      qList.forEach((q, i) => {
+        questionList.innerHTML += `
+          <div class="card p-3 mb-3">
+            <p><strong>第 ${i + 1} 題：</strong>${q.question}</p>
+            ${['A', 'B', 'C', 'D'].map(opt => `
+              <div class="form-check">
+                <input class="form-check-input" type="radio" name="q${q.id}" value="${opt}" id="q${q.id}_${opt}">
+                <label class="form-check-label" for="q${q.id}_${opt}">(${opt}) ${q.options[opt]}</label>
+              </div>`).join('')}
+            <div id="result-${q.id}" class="mt-2"></div>
+          </div>
+        `;
+      });
+      quizForm.classList.remove('d-none');
+      document.getElementById('result').innerHTML = '';
+    }
+
+    document.getElementById('quizForm').onsubmit = async function(e) {
+      e.preventDefault();
+      const count = questions.length;
+      const pointPerQuestion = 100 / count;
+      let score = 0;
+      const results = [];
+
+      questions.forEach(q => {
+        const selected = document.querySelector(`input[name="q${q.id}"]:checked`);
+        const userAns = selected ? selected.value : '';
+        const resultDiv = document.getElementById(`result-${q.id}`);
+        const correctAnswers = q.answer;
+        let isCorrect = false;
+        if (correctAnswers === null) isCorrect = true;
+        else if (Array.isArray(correctAnswers)) isCorrect = correctAnswers.includes(userAns);
+        else isCorrect = (userAns === correctAnswers);
+        if (isCorrect) score += pointPerQuestion;
+
+        results.push({
+          question_id: q.id,
+          correct: isCorrect,
+          user_answer: userAns,
+          question: q
+        });
+
+        resultDiv.innerHTML = isCorrect
+          ? `<span class="text-success">✅ 正確</span>`
+          : `<span class="text-danger">❌ 答錯，正確答案：${Array.isArray(correctAnswers) ? correctAnswers.join('、') : correctAnswers}</span>`;
+      });
+
+      document.getElementById('result').innerHTML = `<h4>🎉 總分：${score.toFixed(2)} 分</h4>`;
+
+      const token = localStorage.getItem('token');
+      if (token) {
+        fetch('/api/save-answers', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': 'Bearer ' + token
+          },
+          body: JSON.stringify({ results })
+        })
+        .then(async res => {
+          const json = await res.json().catch(() => ({}));
+          console.log('伺服器回應狀態:', res.status);
+          console.log('伺服器回應內容:', json);
+        })
+        .catch(err => {
+          console.error('Fetch 發生錯誤:', err);
+        });
+      }
+    };
+
+    fetchTypes();
+  </script>
+</body>
+</html>
