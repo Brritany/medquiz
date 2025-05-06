@@ -9,23 +9,29 @@ import os
 import json
 import random
 from collections import defaultdict
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
 CORS(app)
 
-# 資料庫初始化與路徑設定（強制確保 instance 資料夾存在）
-basedir = os.path.abspath(os.path.dirname(__file__))
-db_path = os.path.join(basedir, 'instance', 'users.db')
-os.makedirs(os.path.dirname(db_path), exist_ok=True)
+# 資料庫設定（Render 使用 DATABASE_URL，否則預設 SQLite）
+db_url = os.getenv("DATABASE_URL")
+if db_url:
+    app.config['SQLALCHEMY_DATABASE_URI'] = db_url.replace('postgres://', 'postgresql://', 1)  # Render 的 URL
+else:
+    basedir = os.path.abspath(os.path.dirname(__file__))
+    db_path = os.path.join(basedir, 'instance', 'users.db')
+    os.makedirs(os.path.dirname(db_path), exist_ok=True)
+    app.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{db_path}'
 
-app.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{db_path}'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-app.config['JWT_SECRET_KEY'] = 'super-secret'
+app.config['JWT_SECRET_KEY'] = os.getenv("JWT_SECRET_KEY", "super-secret")
 
 db = SQLAlchemy(app)
 jwt = JWTManager(app)
 
-# 資料表定義
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     username = db.Column(db.String(80), unique=True, nullable=False)
@@ -44,7 +50,6 @@ class AnswerRecord(db.Model):
 def ensure_db():
     db.create_all()
 
-# 註冊 API
 @app.route('/api/register', methods=['POST'])
 def register():
     data = request.get_json()
@@ -55,7 +60,6 @@ def register():
     db.session.commit()
     return jsonify({"msg": "註冊成功"})
 
-# 登入 API
 @app.route('/api/login', methods=['POST'])
 def login():
     data = request.get_json()
@@ -65,7 +69,6 @@ def login():
     token = create_access_token(identity=str(user.id))
     return jsonify(access_token=token)
 
-# 題庫資料夾設定
 DATASET_FOLDER = os.path.join(os.path.dirname(__file__), '..', 'DataSet')
 
 @app.route('/api/list-types')
@@ -98,7 +101,7 @@ def load_questions():
         with open(os.path.join(DATASET_FOLDER, filename), encoding='utf-8') as f:
             questions = json.load(f)
             for q in questions:
-                q['filename'] = filename  # 加上 filename 供紀錄使用
+                q['filename'] = filename
                 all_questions.append(q)
 
     if year == 'random':
@@ -107,7 +110,6 @@ def load_questions():
 
     return jsonify(all_questions)
 
-# 儲存作答
 @app.route('/api/save-answers', methods=['POST'])
 @jwt_required()
 def save_answers():
@@ -122,29 +124,57 @@ def save_answers():
             user_answer = item.get('user_answer')
             snapshot = item.get('question')
 
-            record = AnswerRecord(
-                user_id=user_id,
-                question_id=question_id,
-                correct=correct,
-                user_answer=user_answer,
-                question_snapshot=snapshot,
-                timestamp=datetime.now()
-            )
-            db.session.add(record)
+            existing = AnswerRecord.query.filter_by(user_id=user_id, question_id=question_id).order_by(AnswerRecord.timestamp.desc()).first()
+            if existing:
+                existing.correct = correct
+                existing.user_answer = user_answer
+                existing.question_snapshot = snapshot
+                existing.timestamp = datetime.now()
+            else:
+                new_record = AnswerRecord(
+                    user_id=user_id,
+                    question_id=question_id,
+                    correct=correct,
+                    user_answer=user_answer,
+                    question_snapshot=snapshot,
+                    timestamp=datetime.now()
+                )
+                db.session.add(new_record)
 
         db.session.commit()
-        return jsonify({"msg": "作答紀錄已儲存"})
+        return jsonify({"msg": "作答紀錄已更新"})
 
     except Exception as e:
         print("🔥 儲存作答錯誤：", e)
         return jsonify({"error": str(e)}), 500
 
-# 查詢作答紀錄
 @app.route('/api/history')
 @jwt_required()
 def get_history():
     user_id = get_jwt_identity()
-    records = AnswerRecord.query.filter_by(user_id=user_id).order_by(AnswerRecord.timestamp.desc()).all()
+
+    subquery = (
+        db.session.query(
+            AnswerRecord.question_id,
+            db.func.max(AnswerRecord.timestamp).label("latest")
+        )
+        .filter(AnswerRecord.user_id == user_id)
+        .group_by(AnswerRecord.question_id)
+        .subquery()
+    )
+
+    latest_records = (
+        db.session.query(AnswerRecord)
+        .join(
+            subquery,
+            (AnswerRecord.question_id == subquery.c.question_id) &
+            (AnswerRecord.timestamp == subquery.c.latest)
+        )
+        .filter(AnswerRecord.user_id == user_id)
+        .order_by(AnswerRecord.timestamp.desc())
+        .all()
+    )
+
     return jsonify([
         {
             "question_id": r.question_id,
@@ -153,7 +183,7 @@ def get_history():
             "timestamp": r.timestamp.isoformat(),
             "question": r.question_snapshot
         }
-        for r in records
+        for r in latest_records
     ])
 
 @app.route('/api/review')
@@ -186,7 +216,6 @@ def mark_correct():
     else:
         return jsonify({"msg": "找不到紀錄"}), 404
 
-# 靜態頁面路由
 @app.route('/')
 def serve_index():
     return send_from_directory('../frontend', 'index.html')
@@ -198,5 +227,4 @@ def serve_static(path):
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
-    app.run(host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))
-
+    app.run(host='0.0.0.0', port=int(os.environ.get("PORT", 5001)))

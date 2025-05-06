@@ -76,7 +76,9 @@
 
     document.getElementById('reviewForm').onsubmit = async function(e) {
       e.preventDefault();
-      const results = [];
+      const token = localStorage.getItem('token');
+      const newlyCorrect = [];
+      const stillWrong = [];
 
       for (const q of wrongQuestions) {
         const selected = document.querySelector(`input[name="q${q.question_id}"]:checked`);
@@ -89,21 +91,30 @@
           : `<span class="text-danger">❌ 答錯，正確答案：${Array.isArray(correctAnswers) ? correctAnswers.join('、') : correctAnswers}</span>`;
 
         if (isCorrect) {
-          // 將該題標記為正確（後端更新資料庫）
-          await fetch('/api/mark-correct', {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-              'Authorization': 'Bearer ' + localStorage.getItem('token')
-            },
-            body: JSON.stringify({ question_id: q.question_id })
+          newlyCorrect.push({
+            question_id: q.question_id,
+            correct: true,
+            user_answer: userAns,
+            question: q.question
           });
         } else {
-          results.push(q); // 還是錯的就保留
+          stillWrong.push(q);
         }
       }
 
-      wrongQuestions = results;
+      // 寫入正確紀錄
+      if (newlyCorrect.length && token) {
+        await fetch('/api/save-answers', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': 'Bearer ' + token
+          },
+          body: JSON.stringify({ results: newlyCorrect })
+        });
+      }
+
+      wrongQuestions = stillWrong;
 
       if (!wrongQuestions.length) {
         document.getElementById('result').innerHTML = '<div class="alert alert-success">🎉 所有錯誤題目已全部正確！</div>';
